@@ -1,0 +1,29 @@
+.product {
+  position: relative;
+  margin-top: 115px;
+}
+
+.product__img {
+  position: absolute;
+  top: 142px;
+  width: 1100px;
+}
+
+.product__logo {
+  margin-left: 30px;
+}
+
+.product-title {
+  width: 400px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 48px;
+  color: #22343D;
+}
+
+.product__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

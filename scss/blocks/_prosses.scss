@@ -1,0 +1,93 @@
+.prosses__body {}
+
+.prosses__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    width: 350px;
+    margin: 200px 525px 0 395px;
+
+    text-align: center;
+
+    color: #22343D;
+}
+
+.prosses__text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    width: 542px;
+    margin: 15px 430px 0 316px; 
+    text-align: center;
+
+    color: #22343D;
+
+}
+
+.prosses__block {
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+    margin-top: 30px;
+    border-radius: 8px;
+  
+}
+.prosses__block-textt{
+   
+}
+
+.prosses__img {
+    width: 98px;
+    height: 98px;
+}
+
+.prosses__block-text {
+    
+    
+    color: #2F281E;
+}
+
+
+.prosses__img-two {
+    width: 98px;
+    height: 98px;
+}
+.prosses__text-two {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2F281E;
+    
+}
+.prosses__users{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.prosses__text1{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    
+}
+.prosses__block{
+   
+}
+.prosses__btn{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: white;
+    border: 1px solid#02897A;
+    border-radius: 4px;
+    padding: 15px 30px;
+    transition: all 0.4s ease;
+    background: rgba(2, 137, 122, 1);
+   margin-left:  450px;
+}
